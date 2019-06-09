@@ -7,7 +7,7 @@ fun parseInt(str: String): Int? {
   }
 }
 
-fun main(args: Array<String>) {
+fun main() {
   var x = parseInt("12345")
   // var x = parseInt("abcdef")
 
